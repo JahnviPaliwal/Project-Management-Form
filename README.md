@@ -1,7 +1,3 @@
-# Project-Management-Form-
-The Project Management Form is a data storage solution using JsonPowerDB and developed in NetBeans. It enables efficient project data input and management, leveraging JsonPowerDB's serverless architecture for real-time handling in a user-friendly interface.
-
-
 # Project Management Form
 
 The project involves creating a Project Management Form using JSON Power DB (JPDB) and NetBeans to facilitate the addition and updating of project data. This application will utilize the capabilities of JPDB for efficient data handling while leveraging the development environment provided by NetBeans.
